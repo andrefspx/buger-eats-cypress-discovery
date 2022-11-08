@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "André Fernandes",
+        "cpf": "00000014141",
+        "email": "andref@gmail.com",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "31110220",
+            "street": "Rua Itamonte",
+            "number": "60",
+            "details": "Ap 301",
+            "district": "Colégio Batista",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "José Porreta",
+        "cpf": "x00000141AA",
+        "email": "andref@gmail.com",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "31110220",
+            "street": "Rua Itamonte",
+            "number": "60",
+            "details": "Ap 301",
+            "district": "Colégio Batista",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    
+    "email_inv": {
+        "name": "André Fernandes",
+        "cpf": "00000014141",
+        "email": "andre.com.br",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "31110220",
+            "street": "Rua Itamonte",
+            "number": "60",
+            "details": "Ap 301",
+            "district": "Colégio Batista",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
